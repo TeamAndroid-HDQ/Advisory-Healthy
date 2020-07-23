@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">AdvisoryHealth</string>
+    <string name="app_name">FirebaseUser</string>
+    <string name="facebook_app_id">563535484323101</string>
+    <string name="fb_login_protocol_scheme">fb563535484323101</string>
+    <string name="registerInLogin">
+        <u>You have not account! Register in this</u>.
+    </string>
+    <string name="forgotPass">
+        <u>You forgot password? Click here!</u>.
+    </string>
 </resources>
